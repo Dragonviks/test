@@ -10,7 +10,6 @@ namespace Тест_с_Git
     {
         static void Main(string[] args)
         {
-
         }
     }
 }
