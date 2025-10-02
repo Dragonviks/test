@@ -12,6 +12,7 @@ namespace Тест_с_Git
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("Привет мир");
+            Console.WriteLine("Пока мир");
         }
     }
 }
